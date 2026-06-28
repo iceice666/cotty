@@ -1,0 +1,13 @@
+# Build artifacts
+.build/
+
+# Swift
+*.o
+*.pcm
+*.swiftdeps
+*.swiftmodule
+Modules/
+
+# macOS
+.DS_Store
+/.direnv
